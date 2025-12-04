@@ -1,0 +1,14 @@
+{
+  "name": "safe",
+  "version": "1.0.0",
+  "description": "An example with a hotel safe mechanism for testing",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Henrik Korsgaard",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.8"
+  }
+}
